@@ -1,0 +1,2 @@
+# Dht22RtcSppRB
+DHT22を使い測定した温度と湿度計をRedBearBLEシールドで送信するarduino用プログラム
